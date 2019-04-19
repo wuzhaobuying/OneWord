@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">字句</string>
+
+    <string-array name="spingarr">
+        <item>文字</item>
+        <item>语录</item>
+        <item>歌词</item>
+        <item>电影</item>
+        <item>诗词</item>
+    </string-array>
+</resources>

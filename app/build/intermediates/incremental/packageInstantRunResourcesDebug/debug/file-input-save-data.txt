@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Mar 17 15:48:07 CST 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\a2330\\Desktop\\OneWord\\app\\build\\intermediates\\assets\\debug
+0.path=litepal.xml
+0.set=ASSET
+count=1

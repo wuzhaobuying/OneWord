@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="One_word"></dbname>
+    <version value="1"></version>
+    <list>
+    <mapping class="smart.ccc.Bean.UserBean"></mapping>
+        <mapping class="smart.ccc.Bean.ArticleBean"></mapping>>
+            <mapping class="smart.ccc.Bean.CommentBean"></mapping>
+
+    </list>
+</litepal>
